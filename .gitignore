@@ -44,3 +44,5 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/api_test/paul-portfolio-6aec1-firebase-adminsdk-niw9v-2d48e175b1.json
+/api_test/node_modules
